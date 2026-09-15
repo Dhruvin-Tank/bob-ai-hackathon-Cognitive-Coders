@@ -1,0 +1,15 @@
+# Demo Video Link
+
+Replace this line with your demo video URL (YouTube, Loom, Box, Google Drive — view-only link).
+
+Example:
+https://www.loom.com/share/your-video-id
+
+## Guidelines
+
+- 3–5 minutes showing:
+  1. App starting up successfully (both backend + frontend)
+  2. Real user journey through key features (Dashboard → Risk Map → Fleet → Asset Detail → Action Plan)
+  3. Actual output being produced (not mocked data)
+- Platform: YouTube (unlisted), Loom, Box, or Google Drive (anyone with link)
+- Ensure the link is accessible without login
