@@ -3,7 +3,7 @@
 Replace this line with your demo video URL (YouTube, Loom, Box, Google Drive — view-only link).
 
 Example:
-https://www.loom.com/share/your-video-id
+https://drive.google.com/file/d/1Pqb2joB7ZkFWo6vWuQ_iJFN4yxQzBp1_/view?usp=drive_link
 
 ## Guidelines
 
